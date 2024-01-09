@@ -1,9 +1,11 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  name: MyString
-  speciality: MyString
+  clown: 1
+  user_id: 1
+  date: 2024-01-09
 
 two:
-  name: MyString
-  speciality: MyString
+  clown: 1
+  user_id: 1
+  date: 2024-01-09
