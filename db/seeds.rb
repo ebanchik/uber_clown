@@ -1,22 +1,22 @@
-Clown.create!(
-  name: "Goofy",
-  specialty: "balloon animals",
-)
+# Clown.create!(
+#   name: "Goofy",
+#   specialty: "balloon animals",
+# )
 
-Clown.create!(
-  name: "Bozo",
-  specialty: "unicycle",
-)
+# Clown.create!(
+#   name: "Bozo",
+#   specialty: "unicycle",
+# )
 
-Clown.create!(
-  name: "Chuckles",
-  specialty: "honking",
-)
+# Clown.create!(
+#   name: "Chuckles",
+#   specialty: "honking",
+# )
 
-Clown.create!(
-  name: "Jester",
-  specialty: "large shoes",
-  )
+# Clown.create!(
+#   name: "Jester",
+#   specialty: "large shoes",
+#   )
 
   # ____________________________________________
 
@@ -66,37 +66,32 @@ Clown.create!(
 # ______________________________
 
 # User.create!(
-#   first_name: "Greg",
-#   last_name: "Hirsch",
+#   name: "Greg Hirsch",
 #   email: "cousin@greg.com",
 #   password: "greg123"
 # )
 
 
 # User.create!(
-#   first_name: "Kendall",
-#   last_name: "Roy",
+#   name: "Kendall Roy",
 #   email: "kendally@roy.com",
 #   password: "kendall123"
 #   )
   
 # User.create!(
-#   first_name: "Tom",
-#   last_name: "Wamsgambs",
+#   name: "Tom Wamsgambs",
 #   email: "tom@wamsgambs.com",
 #   password: "tom123"
 #   )
   
 # User.create!(
-#   first_name: "Roman",
-#   last_name: "Roy",
+#   name: "Roman Roy",
 #   email: "roman@roy.com",
 #   password: "roman123"
 #   )
   
 # User.create!(
-#   first_name: "Shiv",
-#   last_name: "Roy",
+#   name: "Shiv Roy",
 #   email: "shiv@roy.com",
 #   password: "shiv123"
 # )
